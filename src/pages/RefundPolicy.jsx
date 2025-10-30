@@ -48,7 +48,7 @@ export default function RefundPolicy() {
         <section className="rp-section">
           <h2>4) How to Start a Return/Refund</h2>
           <ol className="rp-steps">
-            Email <a href="mailto:support@poogone.com">support@poogone.net</a>{" "}
+            Email <a href="mailto:support@poogone.net">support@poogone.net</a>{" "}
             with your <strong>order #</strong> and the issue.
             <br /> We’ll reply with a return authorization (RMA) and
             instructions.
