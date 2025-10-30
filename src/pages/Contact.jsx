@@ -171,7 +171,7 @@ export default function Contact() {
         <div className="contact-meta">
           <div>
             Customer service:{" "}
-            <a href="mailto:support@poogone.com">support@poogone.com</a>
+            <a href="mailto:support@poogone.net">support@poogone.net</a>
             <br></br>
             Read Global Policy: {" "} <a href="/GB-1.pdf" target="_blank">Click here</a>
           </div>
