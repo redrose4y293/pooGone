@@ -10,7 +10,7 @@ export default function About() {
       "@type": "Organization",
       name: "Poo Gone",
       brand: "Poo Gone®",
-      url: "https://poogone.com/about",
+      url: "https://poogone.net/about",
       sameAs: [],
     },
   };
