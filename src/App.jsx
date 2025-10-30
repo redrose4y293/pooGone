@@ -158,31 +158,6 @@ function App() {
             <a href="#refund">Refund Policy</a>
             <a href="#sds">SDS</a>
           </div>
-          <form
-            onSubmit={(e) => e.preventDefault()}
-            style={{ display: "flex", gap: 8, alignItems: "center" }}
-          >
-            <input
-              placeholder="Email sign-up"
-              style={{
-                padding: "8px 10px",
-                border: "1px solid #cbd5e1",
-                borderRadius: 6,
-              }}
-            />
-            <button
-              type="submit"
-              style={{
-                padding: "8px 12px",
-                border: "1px solid #0ea5e9",
-                background: "#0ea5e9",
-                color: "#fff",
-                borderRadius: 6,
-              }}
-            >
-              Subscribe
-            </button>
-          </form>
         </div>
         <div style={{ marginTop: 8, fontSize: 12, color: "#475569" }}>
           © {new Date().getFullYear()} Poo Gone®. All rights reserved.
