@@ -48,7 +48,7 @@ export default function RefundPolicy() {
         <section className="rp-section">
           <h2>4) How to Start a Return/Refund</h2>
           <ol className="rp-steps">
-            Email <a href="mailto:support@poogone.com">support@poogone.com</a>{" "}
+            Email <a href="mailto:support@poogone.com">support@poogone.net</a>{" "}
             with your <strong>order #</strong> and the issue.
             <br /> We’ll reply with a return authorization (RMA) and
             instructions.
@@ -72,7 +72,7 @@ export default function RefundPolicy() {
           <h2>6) Damaged or Defective Items</h2>
           <p>
             If your order arrived damaged or you believe it’s defective, email{" "}
-            <a href="mailto:support@poogone.com">support@poogone.com</a> within{" "}
+            <a href="mailto:support@poogone.net">support@poogone.net</a> within{" "}
             <strong>7 days</strong> of delivery with:
           </p>
           <ul className="rp-list">
@@ -100,7 +100,7 @@ export default function RefundPolicy() {
           <h2>8) Exchanges</h2>
           <p>
             Need a different pack size? We can often process a quick exchange.
-            Email <a href="mailto:support@poogone.com">support@poogone.com</a>{" "}
+            Email <a href="mailto:support@poogone.net">support@poogone.net</a>{" "}
             and we’ll help.
           </p>
         </section>
